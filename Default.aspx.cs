@@ -1,5 +1,5 @@
 // =====COPYRIGHT=====
-// github http copyright text
+// SomeTextFromProduction
 // =====COPYRIGHT=====
 using System;
 using System.Collections.Generic;
